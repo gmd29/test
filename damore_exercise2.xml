@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="Documents/damore_exercise4.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+   <header> <author>Giovanni Meli</author>
+    <year>1772</year></header>
+    
+    <body><stanza><line>Sti <cognate type="exact">silenzi</cognate>, sta virdura,</line>
+    <line>Sti <cognate type ="u/o">muntagni</cognate>, sti vallati</line>
+    <line>L'<cognate type ="exact">ha</cognate> criatu <cognate type = "exact">la</cognate> <cognate type="exact">natura</cognate></line>
+    <line>Pri li <cognate type ="u/o">cori</cognate> <cognate type="u/o">innamurati</cognate>.</line></stanza>
+    
+    <stanza><line>Lu sussurru <cognate type="exact">di</cognate> li frunni,</line>
+    <line><repeat>Di</repeat> lu ciumi lu <cognate type="u/o">lamentu</cognate>,</line>
+    <line><cognate type="exact">L'aria</cognate>, <cognate type="u/o">l'ecu</cognate> <cognate type="exact">chi</cognate> rispunni,</line>
+    <line>Tuttu spira sentimentu.</line></stanza>
+    
+    <stanza><line>Dda <cognate type="exact">farfalla</cognate> accussì vaga,</line>
+    <line>Lu muggitu <repeat>di</repeat> li <cognate type ="exact">tori</cognate>,</line>
+    <line><cognate type="u/o">L'innuccenza</cognate> <repeat>chi</repeat> v'<cognate type="exact">appaga</cognate>,</line>
+    <line><cognate type="exact">Tutti</cognate> parranu a lu <repeat>cori</repeat></line></stanza>
+    
+    <stanza><line>Stu frischettu <cognate type="exact">insinuanti</cognate></line>
+    <line><cognate type="exact">Chiudi</cognate> <cognate type="exact">un</cognate> <cognate type="u/o">gruppu</cognate> <repeat>di</repeat> piaciri,</line>
+    <line>Accarizza l'alma <cognate type="exact">amanti</cognate></line>
+    <line><cognate type="exact">E</cognate> ci arrobba li <cognate type="u/o">suspiri</cognate>.</line></stanza></body></poem>
